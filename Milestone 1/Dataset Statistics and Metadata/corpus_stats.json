@@ -1,0 +1,63 @@
+{
+  "total_papers": 100,
+  "summary_statistics": {
+    "word_count": {
+      "mean": 13858.4,
+      "median": 13730.0,
+      "std": 6771.9,
+      "min": 2660,
+      "max": 53535
+    },
+    "char_count": {
+      "mean": 98879.0,
+      "median": 95923.0,
+      "std": 48906.8,
+      "min": 17880,
+      "max": 373926
+    },
+    "table_count": {
+      "mean": 8.9,
+      "median": 8.0,
+      "std": 5.9,
+      "min": 0,
+      "max": 33
+    },
+    "formula_count": {
+      "mean": 0.5,
+      "median": 0.0,
+      "std": 1.3,
+      "min": 0,
+      "max": 7
+    },
+    "section_count": {
+      "mean": 5.8,
+      "median": 6.0,
+      "std": 0.4,
+      "min": 4,
+      "max": 6
+    }
+  },
+  "section_presence_rates": {
+    "Abstract": 100.0,
+    "Introduction": 100.0,
+    "Related Work": 91.0,
+    "Methodology": 95.0,
+    "Experiments": 96.0,
+    "Conclusion": 99.0
+  },
+  "year_distribution": {
+    "2021": 4,
+    "2023": 7,
+    "2024": 47,
+    "2025": 40,
+    "2026": 2
+  },
+  "filename_near_duplicates": [],
+  "content_hash_duplicates": [],
+  "outliers_short": [],
+  "outliers_long": [
+    "Against The Achilles Heel A Survey on Red Teaming for Generative Models.md",
+    "Defeating Prompt Injections by Design.md"
+  ],
+  "year_missing_count": 0
+}

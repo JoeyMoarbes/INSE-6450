@@ -1,0 +1,101 @@
+filename,word_count,char_count,table_count,formula_count,year,section_count,has_abstract,has_introduction,has_related_work,has_methodology,has_experiments,has_conclusion
+A Causal Explainable Guardrails for Large Language.md,14736,110662,10,0,2024,6,True,True,True,True,True,True
+AN LLM CAN FOOL ITSELF- A PROMPT-BASED ADVERSARIAL ATTACK.md,13655,101523,22,0,2023,6,True,True,True,True,True,True
+AdversaFlow- Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow.md,12394,81451,1,0,2024,6,True,True,True,True,True,True
+Adversarial Attack on Hyperdimensional Computing-based NLP Applications.md,5350,34290,3,0,2023,6,True,True,True,True,True,True
+Against The Achilles Heel A Survey on Red Teaming for Generative Models.md,39727,277862,12,0,2025,5,True,True,True,False,True,True
+Align is not Enough- Multimodal Universal Jailbreak Attack against Multimodal Large Language Models.md,11637,80745,6,0,2025,6,True,True,True,True,True,True
+Aligning AI With Shared Human Values.md,15973,99104,2,3,2021,5,True,True,False,True,True,True
+Are Existing Large Language Models Robust Against Jailbreak Attacks?.md,8174,53342,3,0,2024,6,True,True,True,True,True,True
+Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications.md,15059,106043,12,0,2024,5,True,True,False,True,True,True
+AutoAdvExBench- Benchmarking autonomous exploitation of adversarial example defenses.md,11582,87757,5,1,2025,6,True,True,True,True,True,True
+Autodan- Generating Stealthy Jailbreak Prompts On Aligned Large Language Models.md,12879,99149,12,0,2024,6,True,True,True,True,True,True
+BADROBOT- JAILBREAKING EMBODIED LLMS IN THE PHYSICAL WORLD.md,20908,152338,11,0,2025,6,True,True,True,True,True,True
+BAIT- Large Language Model Backdoor Scanning by Inverting Attack Target.md,15475,96564,7,0,2025,6,True,True,True,True,True,True
+BackdoorAlign- Mitigating Fine-tuning based Jailbreak Attack with Backdoor Enhanced Safety Alignment.md,17866,124688,12,0,2024,6,True,True,True,True,True,True
+Bag of Tricks- Benchmarking of Jailbreak Attacks on LLMs.md,15010,126334,13,0,2024,6,True,True,True,True,True,True
+Bypassing Guardrails- Lessons Learned from Red Teaming ChatGPT.md,11916,94123,7,0,2025,5,True,True,True,True,False,True
+CATASTROPHIC JAILBREAK OF OPEN-SOURCE LLMS VIA EXPLOITING GENERATION.md,9629,71949,12,0,2023,6,True,True,True,True,True,True
+CONSTITUTIONAL CLASSIFIERS++- EFFICIENT PRODUCTION-GRADE DEFENSES AGAINST UNIVERSAL JAILBREAKS.md,9682,83047,2,1,2026,5,True,True,True,True,False,True
+CURIOSITY-DRIVEN RED-TEAMING FOR LARGE LANGUAGE MODELS.md,13572,98382,7,0,2024,6,True,True,True,True,True,True
+Cascading Adversarial Bias from Injection to Distillation in Language Models.md,21002,162018,16,1,2025,6,True,True,True,True,True,True
+ChatBug- A Common Vulnerability of Aligned LLMs Induced by Chat Templates.md,9087,61708,8,0,2025,6,True,True,True,True,True,True
+Codebreaker- Dynamic Extraction Attacks on Code Language Models.md,13354,91803,8,0,2025,6,True,True,True,True,True,True
+Comparison requires valid measurement- Rethinking attack success rate comparisons in AI red teaming.md,16632,121840,5,0,2026,5,True,True,True,True,False,True
+Defeating Prompt Injections by Design.md,53535,373926,13,1,2025,5,True,True,False,True,True,True
+Defending Language Models Against Image-Based Prompt Attacks via User-Provided Specifications.md,15189,99114,2,0,2024,6,True,True,True,True,True,True
+Defending Large Language Models Against Jailbreak Attacks Through Chain of Thought Prompting.md,5322,39330,4,0,2024,6,True,True,True,True,True,True
+Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs.md,18818,145806,19,0,2025,6,True,True,True,True,True,True
+DiveR-CT - Diversity-enhanced Red Teaming Large Language Model Assistants with Relaxing Constraints.md,19280,130045,11,0,2025,6,True,True,True,True,True,True
+Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning.md,13667,98928,7,0,2024,6,True,True,True,True,True,True
+Do Anything Now - Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models.md,18269,132053,11,0,2024,6,True,True,True,True,True,True
+Do Internal Layers of LLMs Reveal Patterns for Jailbreak Detection?.md,2846,25470,3,0,2025,5,True,True,False,True,True,True
+Don’t Listen To Me- Understanding and Exploring Jailbreak Prompts of Large Language Models.md,14402,97704,4,0,2024,6,True,True,True,True,True,True
+ENDLESS JAILBREAKS WITH BIJECTION LEARNING.md,10545,66848,5,0,2025,6,True,True,True,True,True,True
+Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization.md,11251,76201,13,0,2024,6,True,True,True,True,True,True
+Enhancing Jailbreak Attacks on LLMs via Persona Prompts.md,16776,121894,11,0,2025,6,True,True,True,True,True,True
+Extracting Training Data from Large Language Models.md,13915,92202,6,0,2021,6,True,True,True,True,True,True
+FUNDAMENTAL LIMITATIONS OF.md,17484,110933,4,0,2024,5,True,True,False,True,True,True
+Fast Adversarial Attacks on Language Models In One GPU Minute.md,13690,87960,12,1,2024,5,True,True,True,True,True,False
+Fun-tuning Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface.md,16589,100898,9,0,2025,6,True,True,True,True,True,True
+Fuzz-Testing Meets LLM-Based Agents An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models.md,15229,111703,13,0,2025,6,True,True,True,True,True,True
+Gradient Cuff- Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes.md,17014,126017,17,0,2024,6,True,True,True,True,True,True
+I Know What You Asked- Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving.md,13826,92832,5,3,2025,6,True,True,True,True,True,True
+Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses.md,16675,118364,14,0,2024,6,True,True,True,True,True,True
+JAILBREAK IN PIECES- COMPOSITIONAL ADVERSARIAL ATTACKS ON MULTI-MODAL LANGUAGE MODELS.md,10768,79285,10,0,2023,6,True,True,True,True,True,True
+JBShield- Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation.md,17824,139811,23,0,2025,6,True,True,True,True,True,True
+JailPO- A Novel Black-box Jailbreak Framework via Preference Optimization against Aligned LLMs.md,7561,51771,5,0,2024,6,True,True,True,True,True,True
+Jailbreak Attacks and Defenses against Multimodal Generative Models- A Survey.md,20442,155374,6,0,2024,5,True,True,True,False,True,True
+Jailbreak Attacks on Large Language Models and Possible Defenses- Present Status and Future Possibilities .md,5636,44993,4,0,2024,4,True,True,False,False,True,True
+Jailbreak-Zero- A Path to Pareto Optimal Red Teaming for Large Language Models.md,13770,118576,22,0,2025,6,True,True,True,True,True,True
+JailbreakBench- An Open Robustness Benchmark for Jailbreaking Large Language Models.md,12296,93985,9,0,2024,6,True,True,True,True,True,True
+JailbreakEval- An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models.md,8165,93092,9,1,2025,6,True,True,True,True,True,True
+JailbreakHunter- A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets.md,13220,88570,0,0,2021,6,True,True,True,True,True,True
+Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters.md,17501,135497,14,0,2024,6,True,True,True,True,True,True
+Jailbreaking leading Safety-Aligned LLMs with Simple Adaptive Attacks.md,16838,132269,14,0,2025,5,True,True,True,True,False,True
+LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet .md,16761,125077,8,0,2024,6,True,True,True,True,True,True
+LLM-Fuzzer- Scaling Assessment of Large Language Model Jailbreaks.md,13862,95425,5,4,2024,6,True,True,True,True,True,True
+Language Model Agnostic Gray-Box Adversarial Attack on Image Captioning.md,10461,65268,0,0,2024,6,True,True,True,True,True,True
+Large Language Model Assisted Adversarial Robustness Neural Architecture Search.md,2660,17880,3,0,2024,6,True,True,True,True,True,True
+Latent Adverserial Training Improves the Represenration of Refusal.md,3874,27786,1,0,2025,6,True,True,True,True,True,True
+MASTERKEY- Automated Jailbreaking of Large Language Model Chatbots.md,13481,93028,6,0,2023,6,True,True,True,True,True,True
+MEASURING MASSIVE MULTITASK LANGUAGE UNDERSTANDING.md,13018,89815,5,1,2021,6,True,True,True,True,True,True
+MULTILINGUAL JAILBREAK CHALLENGES IN LARGE LANGUAGE MODELS.md,10184,71650,8,0,2024,6,True,True,True,True,True,True
+Many-shot Jailbreaking.md,22650,166638,6,0,2024,6,True,True,True,True,True,True
+Mission Impossible- A Statistical Perspective on Jailbreaking LLMs.md,24459,168030,15,0,2024,5,True,True,False,True,True,True
+Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models.md,16450,119530,8,0,2024,6,True,True,True,True,True,True
+Modifier Unlocked- Jailbreaking Text-to-Image Models Through Prompts.md,15570,107525,11,0,2025,6,True,True,True,True,True,True
+Multi-Turn Jailbreaking Large Language Models via Attention Shifting.md,7347,47881,2,0,2025,6,True,True,True,True,True,True
+OCR-APT Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs.md,15825,117069,9,0,2025,6,True,True,True,True,True,True
+OLD-Attack- Jailbreaking LLMs with Stealthiness and Controllability.md,18457,140808,27,0,2024,6,True,True,True,True,True,True
+Optimization-based Prompt Injection Attack to LLM-as-a-Judge.md,17792,124865,15,6,2025,6,True,True,True,True,True,True
+"PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition.md",8978,60454,5,0,2024,6,True,True,True,True,True,True
+PLeak- Prompt Leaking Attacks against Large Language Model Applications.md,15491,103147,14,0,2024,6,True,True,True,True,True,True
+POISONPROMPT- BACKDOOR ATTACK ON PROMPT-BASED LARGE LANGUAGE MODELS.md,3749,24032,1,0,2024,6,True,True,True,True,True,True
+PROMPT MAKES MASK LANGUAGE MODELS BETTER ADVERSARIAL ATTACKERS.md,3769,30855,5,0,2023,5,True,True,False,True,True,True
+PentestGPT- Evaluating and Harnessing Large Language Models for Automated Penetration Testing.md,12389,84862,6,0,2024,6,True,True,True,True,True,True
+Preference Poisoning Attacks on Reward Model Learning.md,15596,102357,5,0,2025,6,True,True,True,True,True,True
+Prompt Crossing- Evaluating Whether LLM Response Stem from Jailbreak or Normal Prompt.md,3216,20861,2,0,2025,5,True,True,False,True,True,True
+Prompt Inference Attack on Distributed Large Language Model Inference Frameworks.md,15468,99015,10,6,2025,6,True,True,True,True,True,True
+R2-Guard- ROBUST REASONING ENABLED LLM GUARDRAIL VIA KNOWLEDGE-ENHANCED LOGICAL REASONING.md,9460,67409,7,0,2024,6,True,True,True,True,True,True
+Red-Teaming for Generative AI- Silver Bullet or Security Theater?.md,14837,102856,3,0,2024,5,True,True,True,False,True,True
+SCAMNET Toward Explainable Large Language Model based Fraudulent Shopping Website Detection.md,6244,42156,5,0,2025,6,True,True,True,True,True,True
+SEAS- Self-Evolving Adversarial Safety Optimization for Large Language Models.md,10591,69669,13,0,2024,6,True,True,True,True,True,True
+SKEWACT- Red Teaming Large Language Models via Activation-Skewed Adversarial Prompt Optimization.md,6789,49950,5,0,2024,6,True,True,True,True,True,True
+SORRY-Bench- Systematically Evaluating Large Language Model Safety Refusal .md,22328,182388,11,0,2025,6,True,True,True,True,True,True
+Safety Misalignment Against Large Language Models.md,19390,127938,33,0,2025,6,True,True,True,True,True,True
+SecAlign Defending Against Prompt Injection with Preference Optimization.md,14520,100001,9,0,2025,6,True,True,True,True,True,True
+Security Attacks on LLM-based Code Completion Tools.md,7369,54620,8,0,2025,6,True,True,True,True,True,True
+Single Character Perturbations Break LLM Alignment.md,13306,88629,16,2,2024,6,True,True,True,True,True,True
+SneakyPrompt Jailbreaking Text-to-image Generative Models.md,14477,95948,13,0,2024,6,True,True,True,True,True,True
+SoK- Prompt Hacking of Large Language Model.md,9061,65123,6,0,2024,5,True,True,True,False,True,True
+Supporting Human Raters with the Detection of Harmful Content using Large Language Models.md,14435,95898,10,4,2025,6,True,True,True,True,True,True
+SwordEcho- A LLM Jailbreaking Optimization Strategy Driven by Reinforcement Learning.md,6363,44262,5,2,2024,6,True,True,True,True,True,True
+Text-Diffusion Red-Teaming of Large Language Models- Unveiling Harmful Behaviors with Proximity Constraints.md,10171,71055,6,0,2025,6,True,True,True,True,True,True
+The Hidden Dimensions of LLM Alignment- A Multi-Dimensional Analysis of Orthogonal Safety Directions.md,11597,78724,9,0,2025,6,True,True,True,True,True,True
+Token Highlighter- Inspecting and Mitigating Jailbreak Prompts for Large Language Models.md,9458,69383,6,0,2024,6,True,True,True,True,True,True
+Tree of Attacks- Jailbreaking Black-Box LLMs Automatically.md,24166,186892,12,0,2024,6,True,True,True,True,True,True
+UDora- A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning.md,12249,82095,5,7,2025,6,True,True,True,True,True,True
+UNIVERSAL JAILBREAK BACKDOORS FROM POISONED HUMAN FEEDBACK.md,12699,75989,3,3,2024,6,True,True,True,True,True,True
+You Can’t Steal Nothing Mitigating Prompt Leakages in LLMs via System Vectors.md,15234,122231,10,3,2025,6,True,True,True,True,True,True
+You Only Prompt Once- On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content.md,15944,112649,21,0,2023,6,True,True,True,True,True,True

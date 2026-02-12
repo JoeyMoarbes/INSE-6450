@@ -1,0 +1,909 @@
+{
+  "total_pdfs": 100,
+  "succeeded": 6,
+  "failed": 0,
+  "skipped": 94,
+  "total_elapsed_seconds": 199.95,
+  "results": [
+    {
+      "filename": "A Causal Explainable Guardrails for Large Language.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/A Causal Explainable Guardrails for Large Language.md",
+      "char_count": 110662,
+      "table_count": 10,
+      "error": null,
+      "elapsed_seconds": 42.58
+    },
+    {
+      "filename": "AN LLM CAN FOOL ITSELF- A PROMPT-BASED ADVERSARIAL ATTACK.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/AN LLM CAN FOOL ITSELF- A PROMPT-BASED ADVERSARIAL ATTACK.md",
+      "char_count": 101523,
+      "table_count": 22,
+      "error": null,
+      "elapsed_seconds": 35.97
+    },
+    {
+      "filename": "AdversaFlow- Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/AdversaFlow- Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow.md",
+      "char_count": 81451,
+      "table_count": 1,
+      "error": null,
+      "elapsed_seconds": 21.19
+    },
+    {
+      "filename": "Adversarial Attack on Hyperdimensional Computing-based NLP Applications.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Adversarial Attack on Hyperdimensional Computing-based NLP Applications.md",
+      "char_count": 34290,
+      "table_count": 3,
+      "error": null,
+      "elapsed_seconds": 7.94
+    },
+    {
+      "filename": "Against The Achilles Heel A Survey on Red Teaming for Generative Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Against The Achilles Heel A Survey on Red Teaming for Generative Models.md",
+      "char_count": 277862,
+      "table_count": 12,
+      "error": null,
+      "elapsed_seconds": 57.57
+    },
+    {
+      "filename": "Align is not Enough- Multimodal Universal Jailbreak Attack against Multimodal Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Align is not Enough- Multimodal Universal Jailbreak Attack against Multimodal Large Language Models.md",
+      "char_count": 80745,
+      "table_count": 6,
+      "error": null,
+      "elapsed_seconds": 26.38
+    },
+    {
+      "filename": "Aligning AI With Shared Human Values.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Aligning AI With Shared Human Values.md",
+      "char_count": 99104,
+      "table_count": 2,
+      "error": null,
+      "elapsed_seconds": 33.85
+    },
+    {
+      "filename": "Are Existing Large Language Models Robust Against Jailbreak Attacks?.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Are Existing Large Language Models Robust Against Jailbreak Attacks?.md",
+      "char_count": 53342,
+      "table_count": 3,
+      "error": null,
+      "elapsed_seconds": 12.39
+    },
+    {
+      "filename": "Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications.md",
+      "char_count": 106043,
+      "table_count": 12,
+      "error": null,
+      "elapsed_seconds": 25.62
+    },
+    {
+      "filename": "AutoAdvExBench- Benchmarking autonomous exploitation of adversarial example defenses.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/AutoAdvExBench- Benchmarking autonomous exploitation of adversarial example defenses.md",
+      "char_count": 87757,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 25.59
+    },
+    {
+      "filename": "Autodan- Generating Stealthy Jailbreak Prompts On Aligned Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Autodan- Generating Stealthy Jailbreak Prompts On Aligned Large Language Models.md",
+      "char_count": 99149,
+      "table_count": 12,
+      "error": null,
+      "elapsed_seconds": 32.31
+    },
+    {
+      "filename": "BADROBOT- JAILBREAKING EMBODIED LLMS IN THE PHYSICAL WORLD.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/BADROBOT- JAILBREAKING EMBODIED LLMS IN THE PHYSICAL WORLD.md",
+      "char_count": 152338,
+      "table_count": 11,
+      "error": null,
+      "elapsed_seconds": 46.76
+    },
+    {
+      "filename": "BAIT- Large Language Model Backdoor Scanning by Inverting Attack Target.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/BAIT- Large Language Model Backdoor Scanning by Inverting Attack Target.md",
+      "char_count": 96564,
+      "table_count": 7,
+      "error": null,
+      "elapsed_seconds": 26.22
+    },
+    {
+      "filename": "BackdoorAlign- Mitigating Fine-tuning based Jailbreak Attack with Backdoor Enhanced Safety Alignment.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/BackdoorAlign- Mitigating Fine-tuning based Jailbreak Attack with Backdoor Enhanced Safety Alignment.md",
+      "char_count": 124688,
+      "table_count": 12,
+      "error": null,
+      "elapsed_seconds": 31.95
+    },
+    {
+      "filename": "Bag of Tricks- Benchmarking of Jailbreak Attacks on LLMs.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Bag of Tricks- Benchmarking of Jailbreak Attacks on LLMs.md",
+      "char_count": 126334,
+      "table_count": 13,
+      "error": null,
+      "elapsed_seconds": 32.39
+    },
+    {
+      "filename": "Bypassing Guardrails- Lessons Learned from Red Teaming ChatGPT.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Bypassing Guardrails- Lessons Learned from Red Teaming ChatGPT.md",
+      "char_count": 94123,
+      "table_count": 7,
+      "error": null,
+      "elapsed_seconds": 17.59
+    },
+    {
+      "filename": "CATASTROPHIC JAILBREAK OF OPEN-SOURCE LLMS VIA EXPLOITING GENERATION.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/CATASTROPHIC JAILBREAK OF OPEN-SOURCE LLMS VIA EXPLOITING GENERATION.md",
+      "char_count": 71949,
+      "table_count": 12,
+      "error": null,
+      "elapsed_seconds": 21.4
+    },
+    {
+      "filename": "CONSTITUTIONAL CLASSIFIERS++- EFFICIENT PRODUCTION-GRADE DEFENSES AGAINST UNIVERSAL JAILBREAKS.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/CONSTITUTIONAL CLASSIFIERS++- EFFICIENT PRODUCTION-GRADE DEFENSES AGAINST UNIVERSAL JAILBREAKS.md",
+      "char_count": 83047,
+      "table_count": 2,
+      "error": null,
+      "elapsed_seconds": 13.05
+    },
+    {
+      "filename": "CURIOSITY-DRIVEN RED-TEAMING FOR LARGE LANGUAGE MODELS.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/CURIOSITY-DRIVEN RED-TEAMING FOR LARGE LANGUAGE MODELS.md",
+      "char_count": 98382,
+      "table_count": 8,
+      "error": null,
+      "elapsed_seconds": 22.7
+    },
+    {
+      "filename": "Cascading Adversarial Bias from Injection to Distillation in Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Cascading Adversarial Bias from Injection to Distillation in Language Models.md",
+      "char_count": 162018,
+      "table_count": 16,
+      "error": null,
+      "elapsed_seconds": 35.39
+    },
+    {
+      "filename": "ChatBug- A Common Vulnerability of Aligned LLMs Induced by Chat Templates.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/ChatBug- A Common Vulnerability of Aligned LLMs Induced by Chat Templates.md",
+      "char_count": 61708,
+      "table_count": 8,
+      "error": null,
+      "elapsed_seconds": 19.21
+    },
+    {
+      "filename": "Codebreaker- Dynamic Extraction Attacks on Code Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Codebreaker- Dynamic Extraction Attacks on Code Language Models.md",
+      "char_count": 91803,
+      "table_count": 8,
+      "error": null,
+      "elapsed_seconds": 30.71
+    },
+    {
+      "filename": "Comparison requires valid measurement- Rethinking attack success rate comparisons in AI red teaming.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Comparison requires valid measurement- Rethinking attack success rate comparisons in AI red teaming.md",
+      "char_count": 121840,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 25.14
+    },
+    {
+      "filename": "Defeating Prompt Injections by Design.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Defeating Prompt Injections by Design.md",
+      "char_count": 373926,
+      "table_count": 13,
+      "error": null,
+      "elapsed_seconds": 92.2
+    },
+    {
+      "filename": "Defending Language Models Against Image-Based Prompt Attacks via User-Provided Specifications.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Defending Language Models Against Image-Based Prompt Attacks via User-Provided Specifications.md",
+      "char_count": 99114,
+      "table_count": 2,
+      "error": null,
+      "elapsed_seconds": 25.64
+    },
+    {
+      "filename": "Defending Large Language Models Against Jailbreak Attacks Through Chain of Thought Prompting.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Defending Large Language Models Against Jailbreak Attacks Through Chain of Thought Prompting.md",
+      "char_count": 39330,
+      "table_count": 4,
+      "error": null,
+      "elapsed_seconds": 10.57
+    },
+    {
+      "filename": "Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs.md",
+      "char_count": 145806,
+      "table_count": 19,
+      "error": null,
+      "elapsed_seconds": 39.38
+    },
+    {
+      "filename": "DiveR-CT - Diversity-enhanced Red Teaming Large Language Model Assistants with Relaxing Constraints.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/DiveR-CT - Diversity-enhanced Red Teaming Large Language Model Assistants with Relaxing Constraints.md",
+      "char_count": 130045,
+      "table_count": 11,
+      "error": null,
+      "elapsed_seconds": 51.52
+    },
+    {
+      "filename": "Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning.md",
+      "char_count": 98928,
+      "table_count": 7,
+      "error": null,
+      "elapsed_seconds": 25.47
+    },
+    {
+      "filename": "Do Anything Now - Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Do Anything Now - Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models.md",
+      "char_count": 132053,
+      "table_count": 11,
+      "error": null,
+      "elapsed_seconds": 39.09
+    },
+    {
+      "filename": "Do Internal Layers of LLMs Reveal Patterns for Jailbreak Detection?.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Do Internal Layers of LLMs Reveal Patterns for Jailbreak Detection?.md",
+      "char_count": 25470,
+      "table_count": 3,
+      "error": null,
+      "elapsed_seconds": 9.97
+    },
+    {
+      "filename": "Don’t Listen To Me- Understanding and Exploring Jailbreak Prompts of Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Don’t Listen To Me- Understanding and Exploring Jailbreak Prompts of Large Language Models.md",
+      "char_count": 97704,
+      "table_count": 4,
+      "error": null,
+      "elapsed_seconds": 19.4
+    },
+    {
+      "filename": "ENDLESS JAILBREAKS WITH BIJECTION LEARNING.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/ENDLESS JAILBREAKS WITH BIJECTION LEARNING.md",
+      "char_count": 66848,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 26.81
+    },
+    {
+      "filename": "Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization.md",
+      "char_count": 76201,
+      "table_count": 11,
+      "error": null,
+      "elapsed_seconds": 20.9
+    },
+    {
+      "filename": "Enhancing Jailbreak Attacks on LLMs via Persona Prompts.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Enhancing Jailbreak Attacks on LLMs via Persona Prompts.md",
+      "char_count": 121894,
+      "table_count": 11,
+      "error": null,
+      "elapsed_seconds": 30.63
+    },
+    {
+      "filename": "Extracting Training Data from Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Extracting Training Data from Large Language Models.md",
+      "char_count": 92202,
+      "table_count": 6,
+      "error": null,
+      "elapsed_seconds": 25.85
+    },
+    {
+      "filename": "FUNDAMENTAL LIMITATIONS OF.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/FUNDAMENTAL LIMITATIONS OF.md",
+      "char_count": 110933,
+      "table_count": 4,
+      "error": null,
+      "elapsed_seconds": 34.5
+    },
+    {
+      "filename": "Fast Adversarial Attacks on Language Models In One GPU Minute.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Fast Adversarial Attacks on Language Models In One GPU Minute.md",
+      "char_count": 87960,
+      "table_count": 12,
+      "error": null,
+      "elapsed_seconds": 26.68
+    },
+    {
+      "filename": "Fun-tuning Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Fun-tuning Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface.md",
+      "char_count": 100898,
+      "table_count": 9,
+      "error": null,
+      "elapsed_seconds": 21.1
+    },
+    {
+      "filename": "Fuzz-Testing Meets LLM-Based Agents An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Fuzz-Testing Meets LLM-Based Agents An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models.md",
+      "char_count": 111703,
+      "table_count": 13,
+      "error": null,
+      "elapsed_seconds": 35.17
+    },
+    {
+      "filename": "Gradient Cuff- Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Gradient Cuff- Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes.md",
+      "char_count": 126017,
+      "table_count": 17,
+      "error": null,
+      "elapsed_seconds": 37.92
+    },
+    {
+      "filename": "I Know What You Asked- Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/I Know What You Asked- Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving.md",
+      "char_count": 92832,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 20.37
+    },
+    {
+      "filename": "Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses.md",
+      "char_count": 118364,
+      "table_count": 12,
+      "error": null,
+      "elapsed_seconds": 48.97
+    },
+    {
+      "filename": "JAILBREAK IN PIECES- COMPOSITIONAL ADVERSARIAL ATTACKS ON MULTI-MODAL LANGUAGE MODELS.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/JAILBREAK IN PIECES- COMPOSITIONAL ADVERSARIAL ATTACKS ON MULTI-MODAL LANGUAGE MODELS.md",
+      "char_count": 79285,
+      "table_count": 10,
+      "error": null,
+      "elapsed_seconds": 37.79
+    },
+    {
+      "filename": "JBShield- Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/JBShield- Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation.md",
+      "char_count": 139811,
+      "table_count": 23,
+      "error": null,
+      "elapsed_seconds": 46.81
+    },
+    {
+      "filename": "JailPO- A Novel Black-box Jailbreak Framework via Preference Optimization against Aligned LLMs.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/JailPO- A Novel Black-box Jailbreak Framework via Preference Optimization against Aligned LLMs.md",
+      "char_count": 51771,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 15.36
+    },
+    {
+      "filename": "Jailbreak Attacks and Defenses against Multimodal Generative Models- A Survey.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Jailbreak Attacks and Defenses against Multimodal Generative Models- A Survey.md",
+      "char_count": 155374,
+      "table_count": 6,
+      "error": null,
+      "elapsed_seconds": 45.56
+    },
+    {
+      "filename": "Jailbreak Attacks on Large Language Models and Possible Defenses- Present Status and Future Possibilities .pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Jailbreak Attacks on Large Language Models and Possible Defenses- Present Status and Future Possibilities .md",
+      "char_count": 44993,
+      "table_count": 4,
+      "error": null,
+      "elapsed_seconds": 14.61
+    },
+    {
+      "filename": "Jailbreak-Zero- A Path to Pareto Optimal Red Teaming for Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Jailbreak-Zero- A Path to Pareto Optimal Red Teaming for Large Language Models.md",
+      "char_count": 118576,
+      "table_count": 22,
+      "error": null,
+      "elapsed_seconds": 33.37
+    },
+    {
+      "filename": "JailbreakBench- An Open Robustness Benchmark for Jailbreaking Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/JailbreakBench- An Open Robustness Benchmark for Jailbreaking Large Language Models.md",
+      "char_count": 93985,
+      "table_count": 9,
+      "error": null,
+      "elapsed_seconds": 24.29
+    },
+    {
+      "filename": "JailbreakEval- An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/JailbreakEval- An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models.md",
+      "char_count": 93092,
+      "table_count": 9,
+      "error": null,
+      "elapsed_seconds": 20.16
+    },
+    {
+      "filename": "JailbreakHunter- A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/JailbreakHunter- A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets.md",
+      "char_count": 88570,
+      "table_count": 0,
+      "error": null,
+      "elapsed_seconds": 30.23
+    },
+    {
+      "filename": "Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters.md",
+      "char_count": 135497,
+      "table_count": 14,
+      "error": null,
+      "elapsed_seconds": 38.2
+    },
+    {
+      "filename": "Jailbreaking leading Safety-Aligned LLMs with Simple Adaptive Attacks.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Jailbreaking leading Safety-Aligned LLMs with Simple Adaptive Attacks.md",
+      "char_count": 132269,
+      "table_count": 14,
+      "error": null,
+      "elapsed_seconds": 47.52
+    },
+    {
+      "filename": "LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet .pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet .md",
+      "char_count": 125077,
+      "table_count": 8,
+      "error": null,
+      "elapsed_seconds": 28.35
+    },
+    {
+      "filename": "LLM-Fuzzer- Scaling Assessment of Large Language Model Jailbreaks.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/LLM-Fuzzer- Scaling Assessment of Large Language Model Jailbreaks.md",
+      "char_count": 95425,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 22.38
+    },
+    {
+      "filename": "Language Model Agnostic Gray-Box Adversarial Attack on Image Captioning.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Language Model Agnostic Gray-Box Adversarial Attack on Image Captioning.md",
+      "char_count": 65268,
+      "table_count": 8,
+      "error": null,
+      "elapsed_seconds": 25.27
+    },
+    {
+      "filename": "Large Language Model Assisted Adversarial Robustness Neural Architecture Search.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Large Language Model Assisted Adversarial Robustness Neural Architecture Search.md",
+      "char_count": 17880,
+      "table_count": 3,
+      "error": null,
+      "elapsed_seconds": 12.64
+    },
+    {
+      "filename": "Latent Adverserial Training Improves the Represenration of Refusal.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Latent Adverserial Training Improves the Represenration of Refusal.md",
+      "char_count": 27786,
+      "table_count": 1,
+      "error": null,
+      "elapsed_seconds": 11.39
+    },
+    {
+      "filename": "MASTERKEY- Automated Jailbreaking of Large Language Model Chatbots.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/MASTERKEY- Automated Jailbreaking of Large Language Model Chatbots.md",
+      "char_count": 93028,
+      "table_count": 6,
+      "error": null,
+      "elapsed_seconds": 21.06
+    },
+    {
+      "filename": "MEASURING MASSIVE MULTITASK LANGUAGE UNDERSTANDING.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/MEASURING MASSIVE MULTITASK LANGUAGE UNDERSTANDING.md",
+      "char_count": 89815,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 28.24
+    },
+    {
+      "filename": "Many-shot Jailbreaking.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Many-shot Jailbreaking.md",
+      "char_count": 166638,
+      "table_count": 6,
+      "error": null,
+      "elapsed_seconds": 37.92
+    },
+    {
+      "filename": "Mission Impossible- A Statistical Perspective on Jailbreaking LLMs.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Mission Impossible- A Statistical Perspective on Jailbreaking LLMs.md",
+      "char_count": 168030,
+      "table_count": 15,
+      "error": null,
+      "elapsed_seconds": 42.84
+    },
+    {
+      "filename": "Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models.md",
+      "char_count": 119530,
+      "table_count": 8,
+      "error": null,
+      "elapsed_seconds": 28.68
+    },
+    {
+      "filename": "Modifier Unlocked- Jailbreaking Text-to-Image Models Through Prompts.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Modifier Unlocked- Jailbreaking Text-to-Image Models Through Prompts.md",
+      "char_count": 107525,
+      "table_count": 11,
+      "error": null,
+      "elapsed_seconds": 35.58
+    },
+    {
+      "filename": "Multi-Turn Jailbreaking Large Language Models via Attention Shifting.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Multi-Turn Jailbreaking Large Language Models via Attention Shifting.md",
+      "char_count": 47881,
+      "table_count": 2,
+      "error": null,
+      "elapsed_seconds": 12.14
+    },
+    {
+      "filename": "Multilingual Jailbreak Challenges In Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Multilingual Jailbreak Challenges In Large Language Models.md",
+      "char_count": 71650,
+      "table_count": 8,
+      "error": null,
+      "elapsed_seconds": 20.66
+    },
+    {
+      "filename": "OCR-APT Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/OCR-APT Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs.md",
+      "char_count": 117069,
+      "table_count": 9,
+      "error": null,
+      "elapsed_seconds": 30.49
+    },
+    {
+      "filename": "OLD-Attack- Jailbreaking LLMs with Stealthiness and Controllability.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/OLD-Attack- Jailbreaking LLMs with Stealthiness and Controllability.md",
+      "char_count": 140808,
+      "table_count": 27,
+      "error": null,
+      "elapsed_seconds": 42.45
+    },
+    {
+      "filename": "Optimization-based Prompt Injection Attack to LLM-as-a-Judge.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Optimization-based Prompt Injection Attack to LLM-as-a-Judge.md",
+      "char_count": 124865,
+      "table_count": 15,
+      "error": null,
+      "elapsed_seconds": 38.03
+    },
+    {
+      "filename": "PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition.md",
+      "char_count": 60454,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 22.38
+    },
+    {
+      "filename": "PLeak- Prompt Leaking Attacks against Large Language Model Applications.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/PLeak- Prompt Leaking Attacks against Large Language Model Applications.md",
+      "char_count": 103147,
+      "table_count": 14,
+      "error": null,
+      "elapsed_seconds": 27.36
+    },
+    {
+      "filename": "POISONPROMPT- BACKDOOR ATTACK ON PROMPT-BASED LARGE LANGUAGE MODELS.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/POISONPROMPT- BACKDOOR ATTACK ON PROMPT-BASED LARGE LANGUAGE MODELS.md",
+      "char_count": 24032,
+      "table_count": 1,
+      "error": null,
+      "elapsed_seconds": 11.3
+    },
+    {
+      "filename": "PROMPT MAKES MASK LANGUAGE MODELS BETTER ADVERSARIAL ATTACKERS.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/PROMPT MAKES MASK LANGUAGE MODELS BETTER ADVERSARIAL ATTACKERS.md",
+      "char_count": 30855,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 11.91
+    },
+    {
+      "filename": "PentestGPT- Evaluating and Harnessing Large Language Models for Automated Penetration Testing.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/PentestGPT- Evaluating and Harnessing Large Language Models for Automated Penetration Testing.md",
+      "char_count": 84862,
+      "table_count": 6,
+      "error": null,
+      "elapsed_seconds": 23.72
+    },
+    {
+      "filename": "Preference Poisoning Attacks on Reward Model Learning.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Preference Poisoning Attacks on Reward Model Learning.md",
+      "char_count": 102357,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 34.53
+    },
+    {
+      "filename": "Prompt Crossing- Evaluating Whether LLM Response Stem from Jailbreak or Normal Prompt.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Prompt Crossing- Evaluating Whether LLM Response Stem from Jailbreak or Normal Prompt.md",
+      "char_count": 20861,
+      "table_count": 2,
+      "error": null,
+      "elapsed_seconds": 14.95
+    },
+    {
+      "filename": "Prompt Inference Attack on Distributed Large Language Model Inference Frameworks.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Prompt Inference Attack on Distributed Large Language Model Inference Frameworks.md",
+      "char_count": 99015,
+      "table_count": 10,
+      "error": null,
+      "elapsed_seconds": 28.72
+    },
+    {
+      "filename": "R2-Guard- ROBUST REASONING ENABLED LLM GUARDRAIL VIA KNOWLEDGE-ENHANCED LOGICAL REASONING.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/R2-Guard- ROBUST REASONING ENABLED LLM GUARDRAIL VIA KNOWLEDGE-ENHANCED LOGICAL REASONING.md",
+      "char_count": 67409,
+      "table_count": 7,
+      "error": null,
+      "elapsed_seconds": 18.15
+    },
+    {
+      "filename": "Red-Teaming for Generative AI- Silver Bullet or Security Theater?.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Red-Teaming for Generative AI- Silver Bullet or Security Theater?.md",
+      "char_count": 102856,
+      "table_count": 3,
+      "error": null,
+      "elapsed_seconds": 16.56
+    },
+    {
+      "filename": "SCAMNET Toward Explainable Large Language Model based Fraudulent Shopping Website Detection.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/SCAMNET Toward Explainable Large Language Model based Fraudulent Shopping Website Detection.md",
+      "char_count": 42156,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 14.27
+    },
+    {
+      "filename": "SEAS- Self-Evolving Adversarial Safety Optimization for Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/SEAS- Self-Evolving Adversarial Safety Optimization for Large Language Models.md",
+      "char_count": 69669,
+      "table_count": 13,
+      "error": null,
+      "elapsed_seconds": 21.07
+    },
+    {
+      "filename": "SKEWACT- Red Teaming Large Language Models via Activation-Skewed Adversarial Prompt Optimization.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/SKEWACT- Red Teaming Large Language Models via Activation-Skewed Adversarial Prompt Optimization.md",
+      "char_count": 49950,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 13.66
+    },
+    {
+      "filename": "SORRY-Bench- Systematically Evaluating Large Language Model Safety Refusal .pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/SORRY-Bench- Systematically Evaluating Large Language Model Safety Refusal .md",
+      "char_count": 182388,
+      "table_count": 11,
+      "error": null,
+      "elapsed_seconds": 57.92
+    },
+    {
+      "filename": "Safety Misalignment Against Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Safety Misalignment Against Large Language Models.md",
+      "char_count": 127938,
+      "table_count": 31,
+      "error": null,
+      "elapsed_seconds": 41.86
+    },
+    {
+      "filename": "SecAlign Defending Against Prompt Injection with Preference Optimization.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/SecAlign Defending Against Prompt Injection with Preference Optimization.md",
+      "char_count": 100001,
+      "table_count": 9,
+      "error": null,
+      "elapsed_seconds": 25.65
+    },
+    {
+      "filename": "Security Attacks on LLM-based Code Completion Tools.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Security Attacks on LLM-based Code Completion Tools.md",
+      "char_count": 54620,
+      "table_count": 8,
+      "error": null,
+      "elapsed_seconds": 16.94
+    },
+    {
+      "filename": "Single Character Perturbations Break LLM Alignment.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Single Character Perturbations Break LLM Alignment.md",
+      "char_count": 88629,
+      "table_count": 16,
+      "error": null,
+      "elapsed_seconds": 27.82
+    },
+    {
+      "filename": "SneakyPrompt Jailbreaking Text-to-image Generative Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/SneakyPrompt Jailbreaking Text-to-image Generative Models.md",
+      "char_count": 95948,
+      "table_count": 9,
+      "error": null,
+      "elapsed_seconds": 22.94
+    },
+    {
+      "filename": "SoK- Prompt Hacking of Large Language Model.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/SoK- Prompt Hacking of Large Language Model.md",
+      "char_count": 65123,
+      "table_count": 6,
+      "error": null,
+      "elapsed_seconds": 15.05
+    },
+    {
+      "filename": "Supporting Human Raters with the Detection of Harmful Content using Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Supporting Human Raters with the Detection of Harmful Content using Large Language Models.md",
+      "char_count": 95898,
+      "table_count": 10,
+      "error": null,
+      "elapsed_seconds": 24.61
+    },
+    {
+      "filename": "SwordEcho- A LLM Jailbreaking Optimization Strategy Driven by Reinforcement Learning.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/SwordEcho- A LLM Jailbreaking Optimization Strategy Driven by Reinforcement Learning.md",
+      "char_count": 44262,
+      "table_count": 4,
+      "error": null,
+      "elapsed_seconds": 17.12
+    },
+    {
+      "filename": "Text-Diffusion Red-Teaming of Large Language Models- Unveiling Harmful Behaviors with Proximity Constraints.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Text-Diffusion Red-Teaming of Large Language Models- Unveiling Harmful Behaviors with Proximity Constraints.md",
+      "char_count": 71055,
+      "table_count": 6,
+      "error": null,
+      "elapsed_seconds": 20.44
+    },
+    {
+      "filename": "The Hidden Dimensions of LLM Alignment- A Multi-Dimensional Analysis of Orthogonal Safety Directions.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/The Hidden Dimensions of LLM Alignment- A Multi-Dimensional Analysis of Orthogonal Safety Directions.md",
+      "char_count": 78724,
+      "table_count": 9,
+      "error": null,
+      "elapsed_seconds": 24.18
+    },
+    {
+      "filename": "Token Highlighter- Inspecting and Mitigating Jailbreak Prompts for Large Language Models.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Token Highlighter- Inspecting and Mitigating Jailbreak Prompts for Large Language Models.md",
+      "char_count": 69383,
+      "table_count": 6,
+      "error": null,
+      "elapsed_seconds": 21.65
+    },
+    {
+      "filename": "Tree of Attacks- Jailbreaking Black-Box LLMs Automatically.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/Tree of Attacks- Jailbreaking Black-Box LLMs Automatically.md",
+      "char_count": 186892,
+      "table_count": 12,
+      "error": null,
+      "elapsed_seconds": 38.15
+    },
+    {
+      "filename": "UDora- A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/UDora- A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning.md",
+      "char_count": 82095,
+      "table_count": 5,
+      "error": null,
+      "elapsed_seconds": 30.5
+    },
+    {
+      "filename": "UNIVERSAL JAILBREAK BACKDOORS FROM POISONED HUMAN FEEDBACK.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/UNIVERSAL JAILBREAK BACKDOORS FROM POISONED HUMAN FEEDBACK.md",
+      "char_count": 75989,
+      "table_count": 3,
+      "error": null,
+      "elapsed_seconds": 21.31
+    },
+    {
+      "filename": "You Can’t Steal Nothing Mitigating Prompt Leakages in LLMs via System Vectors.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/You Can’t Steal Nothing Mitigating Prompt Leakages in LLMs via System Vectors.md",
+      "char_count": 122231,
+      "table_count": 10,
+      "error": null,
+      "elapsed_seconds": 38.08
+    },
+    {
+      "filename": "You Only Prompt Once- On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content.pdf",
+      "status": "success",
+      "output_path": "/Users/joey/Library/CloudStorage/OneDrive-Personal/Grad/Summer 2025/Finetuning/INSE 6450/Milestones/Milestone 1/Papers_md/You Only Prompt Once- On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content.md",
+      "char_count": 112649,
+      "table_count": 21,
+      "error": null,
+      "elapsed_seconds": 32.65
+    }
+  ]
+}
